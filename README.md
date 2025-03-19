@@ -1,6 +1,6 @@
 ## Hi there! I'm Preston Tom-Ying 👋
 
-I'm a **Software Engineer** with a passion for full stack and ML. Currently looking for Summer 2025 internships in backend development.
+I'm a **Software Engineer** with a passion for full stack and ML. Currently looking for Winter 2026 internships in backend development.
 
 <br/>
 
