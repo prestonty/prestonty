@@ -1,6 +1,6 @@
 ## Hi there! I'm Preston Tom-Ying 👋
 
-I'm a **Software Engineer** with a passion in fintech. Currently looking for Fall 2026 internships in backend development.
+I'm a **Software Engineer** with a passion in fintech, payments infrastructure, and large backend systems. Currently looking for Summer 2027 internships.
 
 <br/>
 
